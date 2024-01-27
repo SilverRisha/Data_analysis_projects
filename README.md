@@ -1,2 +1,2 @@
 # Data_analysis_projects
-This repository works аs a portfolio
+This repository Stands аs a Portfolio
